@@ -19,16 +19,20 @@ quiz = [
             "Daimler-Maybach Stahlradwagen"
         ],
         "answer": "Cugnot Fardier"
+    },
+    {
+        "question": "What color is a carrot?",
+        "choices": [
+            "Carrot",
+            "Purple",
+            "Green",
+            "Yellow",
+            "Pumpkin",
+            "Black"
+        ],
+        "answer": "Carrot"
     }
 ]
-
-import random
-random.shuffle(quiz)
-correct = 0
-
-correct = correct + 1
-
-correct += 1
 
 problemNumber = 0
 correct = 0
